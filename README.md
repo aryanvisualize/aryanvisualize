@@ -36,8 +36,6 @@ Full Stack Developer | DSA Enthusiast
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_rastogi.7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rastogi-75426222a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akarui.aryan)
