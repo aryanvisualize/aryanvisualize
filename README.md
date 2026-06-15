@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-
 <h3 align="center">
 Full Stack Developer | DSA Enthusiast
 </h3>
@@ -10,7 +8,7 @@ Full Stack Developer | DSA Enthusiast
 
 ---
 
-## 🚀 About Me
+## 🧑‍🎓 About Me
 
 - 🎓 B.Tech CSE Student
 - 💻 Solving DSA problems daily
