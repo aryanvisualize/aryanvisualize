@@ -47,9 +47,7 @@ Full Stack Developer | DSA Enthusiast
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=aryanvisualize&show_icons=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&icon_color=FB8C00&border_color=F97316"/>
-
-<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=aryanvisualize&show_icons=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&icon_color=FB8C00&border_color=F97316"/>   <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvisualize&layout=compact&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&border_color=F97316"/>
 
 </p>
