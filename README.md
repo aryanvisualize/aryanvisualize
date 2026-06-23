@@ -10,12 +10,12 @@ Full Stack Developer | DSA Enthusiast
 
 ## 🧑‍🎓 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Solving DSA problems daily
-- 🌱 Learning MERN stack development
-- 🔭 Building projects regularly
-- 🎯 Goal: Software Engineering Internship / SDE Role
-- ⚡ Fun Fact: I enjoy turning ideas into real web applications
+-  B.Tech CSE Student
+-  Solving DSA problems daily
+-  Learning MERN stack development
+-  Building projects regularly
+-  Goal: Software Engineering Internship / SDE Role
+-  Fun Fact: I enjoy turning ideas into real web applications
 
 ---
 
@@ -30,7 +30,13 @@ Full Stack Developer | DSA Enthusiast
 ✔ Git & GitHub
 ```
 
----
+## 🛠 Tech Stack
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/><img src="https://skillicons.dev/icons?i=react,bootstrap"/><img src="https://skillicons.dev/icons?i=nodejs,express"/><img src="https://skillicons.dev/icons?i=mysql,mongodb"/><img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
@@ -40,6 +46,8 @@ Full Stack Developer | DSA Enthusiast
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aryanvisualize)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akarui_aryan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanvisualize@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/aryanR_3002/)
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,52 +69,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvisuali
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanvisualize&bg_color=0d1117&color=f97316&line=fb8c00&point=f97316&area=true&hide_border=false&area_color=fb8c00" />
-</p>
-
----
-## 🏆 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/aryanR_3002?theme=dark&font=Karma&ext=heatmap" />
-</p> 
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
 
 
 ---
